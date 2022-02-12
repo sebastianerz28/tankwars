@@ -1,0 +1,2 @@
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Resources\obj\Debug\Resources.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache

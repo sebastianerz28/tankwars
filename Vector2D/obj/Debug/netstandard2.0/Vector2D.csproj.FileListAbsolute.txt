@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.deps.json
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfo.cs
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.dll
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.AssemblyReference.cache

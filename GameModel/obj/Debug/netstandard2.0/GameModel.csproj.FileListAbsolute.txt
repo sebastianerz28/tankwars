@@ -1,0 +1,13 @@
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\bin\Debug\netstandard2.0\GameModel.deps.json
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\bin\Debug\netstandard2.0\GameModel.dll
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\bin\Debug\netstandard2.0\GameModel.pdb
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\obj\Debug\netstandard2.0\GameModel.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\obj\Debug\netstandard2.0\GameModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\obj\Debug\netstandard2.0\GameModel.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\obj\Debug\netstandard2.0\GameModel.AssemblyInfo.cs
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\obj\Debug\netstandard2.0\GameModel.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\obj\Debug\netstandard2.0\GameModel.csproj.CopyComplete
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\obj\Debug\netstandard2.0\GameModel.dll
+C:\Users\sebas\source\repos\game-java_is_lame\TankWars\GameModel\obj\Debug\netstandard2.0\GameModel.pdb

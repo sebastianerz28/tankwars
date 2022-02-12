@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXDHvb5uNpAIeAeLfTkrDOlQNPxlUkLQlfrB3a2G0h0FSJDaxXbfkl1i+W/GSll96VThOofGfbWkZVffVbMoAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\Source\\Repos\\tankwars\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F2EB78C-EF6B-42C5-93BB-391570469C9F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Resources</RootNamespace>
+    <AssemblyName>Resources</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Background.png" />
+    <Content Include="Images\BlueTank.png" />
+    <Content Include="Images\BlueTurret.png" />
+    <Content Include="Images\DarkTank.png" />
+    <Content Include="Images\DarkTurret.png" />
+    <Content Include="Images\explosion.gif" />
+    <Content Include="Images\frame_0.png" />
+    <Content Include="Images\frame_1.png" />
+    <Content Include="Images\frame_2.png" />
+    <Content Include="Images\frame_3.png" />
+    <Content Include="Images\frame_4.png" />
+    <Content Include="Images\frame_5.png" />
+    <Content Include="Images\frame_6.png" />
+    <Content Include="Images\frame_7.png" />
+    <Content Include="Images\frame_8.png" />
+    <Content Include="Images\frame_9.png" />
+    <Content Include="Images\frame_10.png" />
+    <Content Include="Images\frame_11.png" />
+    <Content Include="Images\frame_12.png" />
+    <Content Include="Images\frame_13.png" />
+    <Content Include="Images\frame_14.png" />
+    <Content Include="Images\frame_15.png" />
+    <Content Include="Images\frame_16.png" />
+    <Content Include="Images\frame_17.png" />
+    <Content Include="Images\frame_18.png" />
+    <Content Include="Images\frame_19.png" />
+    <Content Include="Images\frame_20.png" />
+    <Content Include="Images\frame_21.png" />
+    <Content Include="Images\frame_22.png" />
+    <Content Include="Images\frame_23.png" />
+    <Content Include="Images\frame_24.png" />
+    <Content Include="Images\frame_25.png" />
+    <Content Include="Images\frame_26.png" />
+    <Content Include="Images\frame_27.png" />
+    <Content Include="Images\frame_28.png" />
+    <Content Include="Images\frame_29.png" />
+    <Content Include="Images\frame_30.png" />
+    <Content Include="Images\frame_31.png" />
+    <Content Include="Images\frame_32.png" />
+    <Content Include="Images\frame_33.png" />
+    <Content Include="Images\frame_34.png" />
+    <Content Include="Images\frame_35.png" />
+    <Content Include="Images\frame_36.png" />
+    <Content Include="Images\frame_37.png" />
+    <Content Include="Images\GreenTank.png" />
+    <Content Include="Images\GreenTurret.png" />
+    <Content Include="Images\ChugJug.png" />
+    <Content Include="Images\LightGreenTank.png" />
+    <Content Include="Images\LightGreenTurret.png" />
+    <Content Include="Images\OrangeTank.png" />
+    <Content Include="Images\OrangeTurret.png" />
+    <Content Include="Images\PurpleTank.png" />
+    <Content Include="Images\PurpleTurret.png" />
+    <Content Include="Images\RedTank.png" />
+    <Content Include="Images\RedTurret.png" />
+    <Content Include="Images\shot-blue.png" />
+    <Content Include="Images\shot-brown.png" />
+    <Content Include="Images\shot-green.png" />
+    <Content Include="Images\shot-grey.png" />
+    <Content Include="Images\shot-red.png" />
+    <Content Include="Images\shot-violet.png" />
+    <Content Include="Images\shot-white.png" />
+    <Content Include="Images\shot-yellow.png" />
+    <Content Include="Images\shot_blue.png" />
+    <Content Include="Images\shot_grey.png" />
+    <Content Include="Images\shot_red_new.png" />
+    <Content Include="Images\shot_violet.png" />
+    <Content Include="Images\WallSprite.png" />
+    <Content Include="Images\YellowTank.png" />
+    <Content Include="Images\YellowTurret.png" />
+    <Content Include="Libraries\NetworkController.dll" />
+    <Content Include="README.txt" />
+    <Content Include="settings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Settings\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
